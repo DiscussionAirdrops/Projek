@@ -2,7 +2,6 @@
 
 Panduan teknis membangun Private Mainnet Ethereum menggunakan Geth. Bukan Token, tapi Blockchain Asli.
 
-**Repository:** [GitHub - KoinInoMainnet](https://github.com/rakian/KoinInoMainnet)
 
 ---
 
